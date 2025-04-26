@@ -1,6 +1,6 @@
 # Hero Section - Vibe Coder Mini Challenge
 
-This project presents a dynamic and interactive **Hero Section**, crafted specifically for the **Vibe Coder Mini Challenge**.
+This project presents a dynamic and interactive **Hero Section**.
 
 It simulates a real-world "AI-driven" coding experience — where you can instantly regenerate new creative content (headline, subheadline, and image) with a click, offering a glimpse into how modern web interfaces feel alive and intelligent.
 
